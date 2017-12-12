@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlzzuPGames", "AlzzuPGames.csproj", "{3BCEAEE7-3EFD-D4DF-86ED-4FA589EDAFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlzzuPGames.Plugins", "AlzzuPGames.Plugins.csproj", "{8FE08843-66D1-45A7-086C-F76623B760DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCEAEE7-3EFD-D4DF-86ED-4FA589EDAFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCEAEE7-3EFD-D4DF-86ED-4FA589EDAFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCEAEE7-3EFD-D4DF-86ED-4FA589EDAFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCEAEE7-3EFD-D4DF-86ED-4FA589EDAFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE08843-66D1-45A7-086C-F76623B760DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE08843-66D1-45A7-086C-F76623B760DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE08843-66D1-45A7-086C-F76623B760DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE08843-66D1-45A7-086C-F76623B760DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

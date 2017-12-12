@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Puzzle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Levels>
+    <Level name="easy">
+      <Frequency>0</Frequency>
+      <HighestScore>0</HighestScore>
+      <ShortestDuration>99999</ShortestDuration>
+      <TimeArray></TimeArray>
+      <ScoreArray></ScoreArray>
+      <DateArray></DateArray>
+    </Level>
+    <Level name="normal">
+      <Frequency>0</Frequency>
+      <HighestScore>0</HighestScore>
+      <ShortestDuration>99999</ShortestDuration>
+      <TimeArray></TimeArray>
+      <ScoreArray></ScoreArray>
+      <DateArray></DateArray>
+    </Level>
+    <Level name="hard">
+      <Frequency>0</Frequency>
+      <HighestScore>0</HighestScore>
+      <ShortestDuration>99999</ShortestDuration>
+      <TimeArray></TimeArray>
+      <ScoreArray></ScoreArray>
+      <DateArray></DateArray>
+    </Level>
+  </Levels>
+</Puzzle>
